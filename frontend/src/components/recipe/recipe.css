@@ -1,0 +1,272 @@
+.heading-s {
+  font-size: 180%;
+  color: #66fcf1;
+  margin-bottom: 2%;
+  font-weight: bold;
+  left: 300px;
+  right: 600px;
+  position: relative;
+}
+.menubtn {
+  margin-top: 20px;
+  margin-left: 360px;
+}
+
+.menuimage {
+  display: flex;
+  position: relative;
+  padding-left: 180px;
+  width: 30%;
+  align-items: center;
+  margin-left: -200px;
+}
+
+.availableHostel {
+  margin-left: 500px;
+  width: 60%;
+  color: #66fcf1;
+  padding: 10px;
+}
+
+.formStyle-s {
+  padding: 10% 30% 15% 10%;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 20px;
+  width: 90%;
+}
+
+.formStyle_1-s {
+  padding: 3% 3% 1%;
+  background-color: rgb(219, 235, 228);
+  border-radius: 1%;
+  font-weight: 600;
+}
+.left-nav-bar-s {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.left-nav-bar-button-s {
+  width: 280px;
+  height: 70px;
+  background-color: #ffffff;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: -300;
+  cursor: pointer;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.left-nav-bar-button-s:hover {
+  background-color: rgb(230, 140, 23);
+  transform: scale(1.12);
+}
+
+.left-button-set-s {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 120px;
+}
+
+.view-button-s {
+  width: 100vh;
+  margin-left: 260px;
+  cursor: pointer;
+}
+
+.supportTitle {
+  align-items: center;
+  margin-left: 600px;
+  color: aliceblue;
+}
+
+.heading-s {
+  align-items: center;
+  margin-left: 240px;
+}
+.button_hostalDetails {
+  margin-top: -350px;
+  position: relative;
+  margin-left: 75%;
+  width: 20vh;
+  height: 5vh;
+  background-color: #cc5200;
+  border-radius: 10px;
+}
+
+.addButton-s {
+  margin-left: 535px;
+  width: 200px;
+}
+
+.addHostel-btn {
+  margin-left: 500px;
+}
+
+.form-group-s {
+  margin-bottom: 10px;
+  font-size: 110%;
+  color: #ff6b15;
+  justify-content: center;
+  width: 100%;
+}
+
+.updateBtn-s {
+  margin-left: 550px;
+}
+
+.updateBtn-ss {
+  margin-left: 530px;
+}
+
+.supporTitle {
+  color: #ffffff;
+  margin-left: 600px;
+}
+
+.searchBar-hostal {
+  width: 3500px;
+  border-radius: 20px;
+  margin-left: 70px;
+  z-index: calc();
+}
+.searchBar-hostal input {
+  background-color: #a8cece;
+  border-radius: 20px;
+}
+
+.table_search-s {
+  width: 90%;
+  margin-left: 65px;
+}
+.hostelImage {
+  display: flex;
+}
+.form-s {
+  background-color: #2d3837;
+  border-radius: 18px;
+}
+.form-s-control {
+  width: 500px;
+}
+
+.add-get-btn {
+  margin-left: 1000px;
+  justify-content: flex-end;
+}
+
+.form-transport {
+  background-color: #04252b;
+  border-radius: 18px;
+}
+
+.SupervisorSupportServices {
+  margin-top: -36%;
+  margin-left: 73%;
+  position: relative;
+  width: 400px;
+  height: 680px;
+  background-color: #20d4b646;
+  border-radius: 30px;
+  color: rgb(228, 32, 185);
+}
+.SuperServicesH2 {
+  text-align: center;
+  color: rgb(22, 20, 20);
+  padding-top: 34px;
+}
+
+.SupervisorSupportServices {
+  margin-top: 2%;
+  margin-left: 10%;
+  position: relative;
+  width: 1100px;
+  height: 680px;
+  background-color: #c5ecdffa;
+  border-radius: 30px;
+  color: rgb(220, 236, 74);
+}
+
+.tarnsportButton {
+  margin-left: 1000px;
+  justify-content: flex-end;
+}
+
+.supLabel input {
+  background-color: #faffff;
+  border-radius: 10px;
+  height: 50px;
+  margin: 10px;
+}
+.supLabel select {
+  background-color: #faffff;
+  border-radius: 10px;
+  height: 50px;
+  margin: 10px;
+}
+.supmenuSliitlogo {
+  justify-content: center;
+  margin-left: 450px;
+}
+
+.contactImage {
+  margin-left: 580px;
+  margin-top: -30%;
+}
+.contactImage img {
+  width: 50%;
+  height: auto;
+}
+
+/*view All recipe*/
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+a,
+button {
+  margin-right: 5px;
+}
+
+.supAddMarksForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.updateBtn {
+  margin-left: 250px;
+}
+
+.add-btn {
+  margin-left: 585px;
+}
